@@ -1,3 +1,5 @@
+Open (https://castle-delta.vercel.app/) with your browser to see the result.
+
 https://devpost.com/software/castle-tlmjsd#updates
 
 ## Inspiration
@@ -39,5 +41,3 @@ pnpm dev
 # or
 bun dev
 ```
-
-Open (https://castle-delta.vercel.app/) with your browser to see the result.
