@@ -1,0 +1,26 @@
+body {
+	background-color: 00664F;
+}
+
+.title {
+	text-align: center;
+}
+
+.castle {
+	transition: transform 0.3s ease-in-out;
+}
+
+.castle-image {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.login-button {
+	text-align: center;
+}
+
+h1 {
+	font-size: 2.5em;
+	font-family: luminari, fantasy;
+	color: white;
+}
